@@ -296,12 +296,13 @@ section .title::after{
     transition: color 0.3s ease;
 }
 .projects .serv-content .card:hover i{
-    color: #fff;
+    color: white;
 }
 .projects .serv-content .card .text{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
+    color: white !important;
 }
 
 /* skills section styling */
